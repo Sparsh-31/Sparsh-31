@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kotwanisparsh@gmail.com**
 
-- 📄 <a href="https://www.canva.com/design/DAFcOk_fGzU/Lj42FpGzO2X0KJIFvAZU6A/view?utm_content=DAFcOk_fGzU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> Know about my experiences </a>
+- 📄 <a href="https://drive.google.com/drive/my-drive"> Know about my experiences </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
