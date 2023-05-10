@@ -6,13 +6,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparsh-31" alt="sparsh-31" /></a> </p>
 
-<a href="https://Sparsh-31.github.io">Portfolio</a>
+
 
 - 🌱 I’m currently learning **Java, SpringBoot, MySql**
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
 - 📫 How to reach me **kotwanisparsh@gmail.com**
+- <a href="https://Sparsh-31.github.io">Portfolio</a>
 
 - 📄 <a href="https://drive.google.com/file/d/1DMSxlCK_49qKd3YV0RyLVcsst41NKc9m/view?usp=share_link"> Know about my experiences </a>
 
