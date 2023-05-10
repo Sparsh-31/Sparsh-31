@@ -13,7 +13,7 @@
 - 💬 Ask me about **Data Structures and Algorithms**
 
 - 📫 How to reach me **kotwanisparsh@gmail.com**
-- <a href="[https://sparsh-31.github.io]">Portfolio</a>
+- <a href="https://sparsh-31.github.io">Portfolio</a>
 
 - 📄 <a href="https://drive.google.com/file/d/1DMSxlCK_49qKd3YV0RyLVcsst41NKc9m/view?usp=share_link"> Know about my experiences </a>
 
