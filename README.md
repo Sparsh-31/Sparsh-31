@@ -12,7 +12,7 @@
 
 
 
-- 📫 Reach me at *kotwanisparsh@gmail.com**
+- 📫 Reach me at *kotwanisparsh@gmail.com*
 
 - 📄 Know more about me [Resume](https://drive.google.com/file/d/1oSHYubWu50JYCCEX28kErSkxKqyj-fPj/view?usp=sharing)
 
