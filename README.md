@@ -14,8 +14,7 @@
 
 - 📫 Reach me at *kotwanisparsh@gmail.com**
 
-- 📄 Know more about me [Resume]
-(https://drive.google.com/file/d/1DMSxlCK_49qKd3YV0RyLVcsst41NKc9m/view?usp=share_link)
+- 📄 Know more about me [Resume](https://drive.google.com/file/d/1DMSxlCK_49qKd3YV0RyLVcsst41NKc9m/view?usp=share_link)
 
 - ⚡ Fun fact - *I love coding 🖊️*
 
