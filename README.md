@@ -1,32 +1,104 @@
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e472he7opafa66qpbqqqjy05ovojgk51wo3ge9pg407&rid=giphy.gif&ct=g" width="100%">
 <h1 align="center">Hi 👋, I'm Sparsh Kotwani</h1>
-<h3 align="center">A passionate Java Backend Developer</h3>
+<br/>
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Java+Back+end+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
+</div>
+<h2>- Full Stack Web Developer skilled in Backend</h2>
+<h2>- I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and make use of them to solve real-life problems </h2>
+<img align="right" alt "Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sparsh-31&label=Profile%20views&color=0e75b6&style=flat" alt="sparsh-31" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparsh-31" alt="sparsh-31" /></a> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sparsh-31&label=Profile%20views&color=0e75b6&style=flat" alt"sparsh-31" /> </p>
 
 
-- 🌱 I’m currently learning **Java, SpringBoot, MySql**
 
-- 💬 Ask me about **Data Structures and Algorithms**
+- 📫 Reach me at *kotwanisparsh@gmail.com**
 
-- 📫 How to reach me **kotwanisparsh@gmail.com**
-- My Portfolio **(https://sparsh-31.github.io/)**
+- 📄 Know more about me [Resume]
+(https://drive.google.com/file/d/1DMSxlCK_49qKd3YV0RyLVcsst41NKc9m/view?usp=share_link)
 
-- 📄 <a href="https://drive.google.com/file/d/1DMSxlCK_49qKd3YV0RyLVcsst41NKc9m/view?usp=share_link"> Know about my experiences </a>
+- ⚡ Fun fact - *I love coding 🖊️*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sparsh kotwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparsh kotwani" height="30" width="40" /></a>
+-  🌎 Let's Create Something the World Needs 🌎
+
+
+<p> <a href="https://www.linkedin.com/in/sparsh-kotwani-128801249/"
+" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a \ 
+  <a href="https://sparsh-31.github.io/" target="text-decoration:none">
+   <img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparsh-31&show_icons=true&locale=en&layout=compact" alt="sparsh-31" /></p>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sparsh-31&show_icons=true&locale=en" alt="sparsh-31" /></p>
+<h3 align="left">🚀 Languages and Tools:</h3>
+<div align="center">
+ 
+ <div align="center"><h3 align="center">Frontend</h3>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript"> 
+<br/>
+<br/>
+  
+  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
+  
+</div>
+ <br/>
+  <div align="center"><h3 align="center">Backend</h3> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"alt="java"/> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"alt="spring"/> 
+<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"alt="spring-boot"/>
+<img src="https://img.shields.io/badge/MySQL-F2F4F9?style=for-the-badge&logo=MySQL"alt="MySQL"/>
+ </div>
+  <div align="center"><h3 align="center">Tools</h3> 
+   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sparsh-31&" alt="sparsh-31" /></p>
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <br/>
+<br/>
+ </div>
+</div>
+
+<br/>
+  
+  ##
+ 
+ 
+ ## 📊 My Github Stats
+
+
+<p align="center">
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sparsh's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=sparsh-31&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" /></p>
+
+  <br/>
+
+  
+<p align="center">
+
+<img alt="Sparsh's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sparsh-31&theme=react&hide_border=false&include_all_commits=false&count_private=true" />
+ 
+<!--      <img alt="Sparsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sparsh-31&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> -->
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparsh-31&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" /> -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparsh-31&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&exclude_langs=python" />
+
+ </p> 
+ <br/>
+ 
+ 
+<br/>
+<br/>
+
+<div> 
+   
+  ![Snake animation Game](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
